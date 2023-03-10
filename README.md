@@ -1,13 +1,14 @@
-## Api Absensi Lab
+# Face Detection System for Student Attendance Records and Laboratory Access project source code
 
-Simple CRUD API for laboratorium absence system.
+Simple REST CRUD API part of project titled Face Detection System for Student Attendance Records and Laboratory Access
+See python files for the IoT in folder /python *the source code is being shared for educational purpose only*
 
 ## Installation
 
 clone this project
 
 ```bash
-git clone https://github.com/hiseulgi/api-absensi-lab.git
+https://github.com/fahimanabila/face_detection_iiiex.git
 ```
 copy .env.example to .env
 
